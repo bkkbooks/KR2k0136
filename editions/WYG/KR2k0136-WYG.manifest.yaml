@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR2k0136/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2k0136/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛國記
+  date: '2015-08-24 22:47:01.706658'
+  source:
+    repository: kanripo
+    path: KR2k0136
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0136_000-WYG.yaml, hash: 'sha256:c50be1d8226f4567c2078821e2bc63d136237e7f757d3065aeda29be5713cb53'}
+  - {seq: 1, filename: KR2k0136_001-WYG.yaml, hash: 'sha256:c525c5567a73b5d9ec9e587a2c54b522b4e4bd408f2fe62623fddb3c08161b84'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0136_000-WYG.markers.yaml, hash: 'sha256:3bc2b5c14dc32226c60744d079023ab4db0f30e7e467e4a076c84db23106c527'}
+  - {seq: 1, role: markers, filename: assets/KR2k0136_001-WYG.markers.yaml, hash: 'sha256:0f54c89cfad60ccfd835db2ef3cd5d3e78f28b94842323d2a5d5e52d148d0b6f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0136_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 530
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2k0136_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 13990
+  label: 佛國記
+  type: section
+  level: 1
+hash: sha256:17a19c49ed28de517e98c57b12df24e66a5000fecec2ebf16a02e51f29392f05
