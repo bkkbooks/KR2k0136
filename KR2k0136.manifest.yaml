@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2k0136_000.yaml, hash: 'sha256:3b3292b9abd01d11ceb59078696d6f9a100ccf25c6eef4fa9ad47b893933e5a8'}
   - {seq: 1, filename: KR2k0136_001.yaml, hash: 'sha256:72761805ef4ba27b28c83e3198ee04fe00b1f0a2630b9eea0980ee6a05247fb9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0136_000.markers.yaml, hash: 'sha256:f2b4e95f449e365041f1888228fe48ab4416b40a282638965dacf64dbf0e6f4e'}
-  - {seq: 1, role: markers, filename: assets/KR2k0136_001.markers.yaml, hash: 'sha256:b685ee52700ca13776a22f1ae3191582b482b2e6bc03603f8be038ec920bedb4'}
+  - {seq: 0, role: markers, filename: assets/KR2k0136_000.markers.yaml, hash: 'sha256:b70fd4e746f17fccaf684eebf60040955a68c541ff0eb56ad49c685cf3e112d0'}
+  - {seq: 1, role: markers, filename: assets/KR2k0136_001.markers.yaml, hash: 'sha256:81334d359b1d8a541cc875f2529713fd51c5792b9deca42490c63cd861ef4f7b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 佛國記
   type: section
   level: 1
-hash: sha256:cfb03b87f7fd331073ec014a49551086240a4bf240f2a7a287fc5f92930bfd33
+hash: sha256:07a996ce7f63644e89d15a45be750474f160a63145bd77212730332a466a2645
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
